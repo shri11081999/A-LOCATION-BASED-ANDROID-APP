@@ -5,8 +5,6 @@ This project is an **Android Application** built using the **ArcGIS Maps API**. 
 ![Java](https://img.shields.io/badge/Java-8-blue)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-4.0%2B-green)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-API-brightgreen)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-[![YouTube Video](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## 🎯 Objective
 
