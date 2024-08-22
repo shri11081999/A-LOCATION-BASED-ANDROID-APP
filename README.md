@@ -26,3 +26,9 @@ The primary goal of this project is to create a **location-based Android applica
 - Android Studio 4.0+
 - ArcGIS Developer Account (to access the ArcGIS Maps API)
 - Gradle: Build automation system for managing dependencies and building the project.
+
+## 🛠️ Installation
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/location-based-android-app.git
+   cd location-based-android-app
