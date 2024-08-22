@@ -1,0 +1,96 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.esri.arcgisruntime.opensourceapps.nearbyplaces"
+4    android:versionCode="1"
+5    android:versionName="1.0.11" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:6:5-78
+12-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:7:5-78
+13-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:7:22-76
+14
+15    <uses-feature
+15-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:9:5-78
+16        android:glEsVersion="0x00020000"
+16-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:9:19-51
+17        android:required="true" />
+17-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:9:52-75
+18
+19    <application
+19-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:11:5-32:19
+20        android:allowBackup="false"
+20-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:12:13-40
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.1] C:\Users\prath\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:13:13-47
+25        android:label="@string/app_name"
+25-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:14:13-45
+26        android:supportsRtl="true"
+26-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:15:13-39
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:16:13-44
+29        <activity
+29-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:18:9-25:20
+30            android:name="com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesActivity"
+30-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:19:17-54
+31            android:configChanges="orientation|screenSize" >
+31-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:20:17-63
+32            <intent-filter>
+32-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:21:13-24:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:22:17-68
+33-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:22:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:23:17-76
+35-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:23:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:26:9-31:20
+39            android:name="com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapActivity"
+39-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:26:19-50
+40            android:configChanges="orientation|screenSize"
+40-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:28:19-65
+41            android:parentActivityName="com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesActivity" >
+41-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:27:19-70
+42            <meta-data
+42-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:29:13-30:65
+43                android:name="android.support.PARENT_ACTIVITY"
+43-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:29:24-70
+44                android:value=".places.PlacesActivity" />
+44-->C:\Users\prath\Desktop\Fall Sem Projects\PDC\nearby-android-main (1)\nearby-android-main\nearby-app\src\main\AndroidManifest.xml:30:24-62
+45        </activity>
+46        <activity
+46-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\prath\.gradle\caches\transforms-2\files-2.1\8e57eb0a54c21311bef18d1e0edac20f\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+47            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+47-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\prath\.gradle\caches\transforms-2\files-2.1\8e57eb0a54c21311bef18d1e0edac20f\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+48            android:exported="false"
+48-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\prath\.gradle\caches\transforms-2\files-2.1\8e57eb0a54c21311bef18d1e0edac20f\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+49            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+49-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\prath\.gradle\caches\transforms-2\files-2.1\8e57eb0a54c21311bef18d1e0edac20f\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+50
+51        <meta-data
+51-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\prath\.gradle\caches\transforms-2\files-2.1\1eb47fdeaf17501e40b9243e33b84f48\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+52            android:name="com.google.android.gms.version"
+52-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\prath\.gradle\caches\transforms-2\files-2.1\1eb47fdeaf17501e40b9243e33b84f48\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+53            android:value="@integer/google_play_services_version" />
+53-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\prath\.gradle\caches\transforms-2\files-2.1\1eb47fdeaf17501e40b9243e33b84f48\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+54    </application>
+55
+56</manifest>

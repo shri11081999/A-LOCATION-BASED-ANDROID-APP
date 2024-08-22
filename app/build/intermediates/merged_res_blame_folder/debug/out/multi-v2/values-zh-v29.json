@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-v29\\values-zh-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\prath\\.gradle\\caches\\transforms-2\\files-2.1\\f6a5524634713179264f819adea1bd92\\jetified-arcgis-android-100.11.0\\res\\values-zh-v29\\values-zh-v29.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "154",
+                        "endOffsets": "205"
+                    }
+                }
+            ]
+        }
+    ]
+}

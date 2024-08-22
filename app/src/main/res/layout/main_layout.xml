@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/list_coordinator_layout"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="android.support.design.widget.BottomSheetBehavior"
+        tools:context="com.esri.opensourceapps.nearbyplaces.places.PlacesActivity">
+
+        <com.google.android.material.appbar.AppBarLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/placeList_app_bar"
+                android:theme="@style/MyAppBarTheme">
+
+                <androidx.appcompat.widget.Toolbar
+                        android:id="@+id/placeList_toolbar"
+                        android:layout_width="match_parent"
+                        android:layout_height="?attr/actionBarSize"
+                        android:background="?attr/colorPrimary"
+                        app:layout_scrollFlags="scroll|enterAlways|snap"
+                        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+                        app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+                </androidx.appcompat.widget.Toolbar>
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <FrameLayout android:id="@+id/list_fragment_container"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        </FrameLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

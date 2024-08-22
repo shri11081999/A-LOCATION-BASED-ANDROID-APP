@@ -1,0 +1,124 @@
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/RouteDetailHeaderBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.RouteDetailHeaderBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/MainLayoutBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.MainLayoutBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/data/CategoryKeeper.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.CategoryKeeper
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/filter/FilterItem.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterItem
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/data/PlacesServiceApi.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.PlacesServiceApi
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.PlacesServiceApi$PlacesServiceCallback
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.PlacesServiceApi$RouteServiceCallback
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/places/PlacesContract.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesContract
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesContract$Presenter
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesContract$View
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/map/MapFragment.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$10
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$11
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$11$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$12
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$12$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$2
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$3
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$4
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$5
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$6
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$7
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$8
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$9
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$MapTouchListener
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapFragment$MapTouchListener$1
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/RouteDirectionListBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.RouteDirectionListBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/BasePresenter.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.BasePresenter
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/BuildConfig.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.BuildConfig
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/data/Place.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.Place
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/data/LocationService.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.LocationService
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.LocationService$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.LocationService$GeocodeProcessor
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.LocationService$RouteSolver
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.LocationService$RouteSolver$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.LocationService$RouteSolver$1$1
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/places/PlacesFragment.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesFragment
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesFragment$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesFragment$FragmentListener
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesFragment$PlacesAdapter
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesFragment$RecyclerViewHolder
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesFragment$RecyclerViewHolder$1
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/FilterListItemBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.FilterListItemBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/places/PlacesPresenter.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesPresenter
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesPresenter$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesPresenter$2
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesPresenter$3
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/route/RouteDirectionsFragment.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.route.RouteDirectionsFragment
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.route.RouteDirectionsFragment$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.route.RouteDirectionsFragment$2
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.route.RouteDirectionsFragment$3
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.route.RouteDirectionsFragment$DirectionsListAdapter
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/filter/FilterDialogFragment.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterDialogFragment
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterDialogFragment$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterDialogFragment$2
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterDialogFragment$FilterItemAdapter
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterDialogFragment$FilterItemAdapter$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterDialogFragment$FilterItemAdapter$ViewHolder
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/RouteHeaderBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.RouteHeaderBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/MapFragmentBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.MapFragmentBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/data/CategoryHelper.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.data.CategoryHelper
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/PlaceListener.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.PlaceListener
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/FilterViewBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.FilterViewBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/PlaceRecyclerViewBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.PlaceRecyclerViewBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/MapLayoutBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.MapLayoutBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/NavigationArrowsBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.NavigationArrowsBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/BaseView.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.BaseView
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/map/MapPresenter.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapPresenter
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapPresenter$1
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapPresenter$2
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapPresenter$3
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/map/MapContract.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapContract
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapContract$Presenter
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapContract$View
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/PlaceCardViewBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.PlaceCardViewBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/map/MapActivity.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.map.MapActivity
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/RouteDirectionListItemBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.RouteDirectionListItemBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/util/ActivityUtils.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.util.ActivityUtils
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/PlaceBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.PlaceBinding
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/filter/FilterContract.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterContract
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterContract$FilterView
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterContract$Presenter
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterContract$View
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/filter/FilterPresenter.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.filter.FilterPresenter
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/places/PlacesActivity.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.places.PlacesActivity
+com/esri/arcgisruntime/opensourceapps/nearbyplaces/databinding/PlaceFragmentBinding.java
+ com.esri.arcgisruntime.opensourceapps.nearbyplaces.databinding.PlaceFragmentBinding

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\place_recycler_view.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\place_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\map_fragment.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\map_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\route_direction_list.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\route_direction_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_layout.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\main_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\place_card_view.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\place_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\route_direction_list_item.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\route_direction_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\filter_view.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\filter_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\filter_list_item.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\filter_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\place_fragment.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\place_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\navigation_arrows.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\navigation_arrows.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\place.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\place.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\map_layout.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\map_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\route_detail_header.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\route_detail_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\route_header.xml",
+        "source": "C:\\Users\\prath\\Desktop\\Fall Sem Projects\\PDC\\nearby-android-main (1)\\nearby-android-main\\nearby-app\\src\\main\\res\\layout\\route_header.xml"
+    }
+]
